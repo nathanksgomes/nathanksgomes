@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:6366F1&height=200&section=header&text=Nathan%20Gomes&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Neg%C3%B3cios&descSize=18&descAlignY=62" />
+<img width="100%" alt="Nathan Gomes — Business Intelligence | Data Analytics | Negócios" src="assets/banner.svg" />
 
 <div align="center">
 
@@ -9,7 +9,8 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>
+<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>&nbsp;&nbsp;
+<a href="mailto:SEU_EMAIL"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
 
 </div>
 
@@ -77,6 +78,35 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 ---
 
+## 🎓 Formação
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="assets/logo-fiap.png" width="72" height="72" alt="FIAP" /><br/>
+      <b>FIAP</b><br/>
+      Ciência da Computação<br/>
+      <sub>Em andamento</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/logo-descomplica.png" width="72" height="72" alt="Descomplica" /><br/>
+      <b>Descomplica</b><br/>
+      Gestão Comercial<br/>
+      <sub>Em andamento</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<!--
+Cursos e certificações de dados: preencha com o que você realmente concluiu.
+Exemplo de linha:
+- 📊 Nome do curso: instituição, ano
+-->
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -104,7 +134,8 @@ Ative estes dois blocos quando tiver repositórios públicos com código e mais 
 ### 📬 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>
+<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>&nbsp;&nbsp;
+<a href="mailto:SEU_EMAIL"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
 
 </div>
 
