@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>&nbsp;&nbsp;
-<a href="mailto:SEU_EMAIL"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
+<a href="mailto:nathanksgomes@gmail.com"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
 
 </div>
 
@@ -135,7 +135,7 @@ Ative estes dois blocos quando tiver repositórios públicos com código e mais 
 
 <a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>&nbsp;&nbsp;
-<a href="mailto:SEU_EMAIL"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
+<a href="mailto:nathanksgomes@gmail.com"><img alt="E-mail" src="assets/btn-email.svg" height="48" /></a>
 
 </div>
 
