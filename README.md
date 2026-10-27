@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/nathankaique/">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-square&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/__than.sg/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -71,16 +71,16 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
-<img height="180" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&hide_border=true&custom_title=Tecnologias&langs_count=8" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nathanksgomes&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
+<img height="180" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanksgomes&theme=tokyonight&layout=compact&hide_border=true&custom_title=Tecnologias&langs_count=8" />
 
 <br/>
 
-<img alt="Streak" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+<img alt="Streak" src="https://streak-stats.demolab.com/?user=nathanksgomes&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 <br/>
 
-<img width="95%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
+<img width="95%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=nathanksgomes&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
 
 </div>
 
@@ -90,10 +90,10 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 ### 📬 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/nathankaique/">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-square&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/__than.sg/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
