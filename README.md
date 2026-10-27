@@ -8,12 +8,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nathankaique/">
-  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-square&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/__than.sg/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>
 
 </div>
 
@@ -27,43 +23,57 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 ## 🛠️ Ferramentas e Tecnologias
 
-### 📈 BI & Visualização
-<p>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
-
-### 🐍 Análise de Dados & Linguagens
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### 🗄️ Bancos de Dados
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### 📈 Dados & BI
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-power-bi.svg" width="40" height="40" alt="Power BI" /><br/>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_excel.svg" width="40" height="40" alt="Excel" /><br/>
+      <sub><b>Excel</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/python.svg" width="40" height="40" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/pandas-icon.svg" width="40" height="40" alt="Pandas" /><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/postgresql.svg" width="40" height="40" alt="SQL" /><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/jupyter.svg" width="40" height="40" alt="Jupyter" /><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 🌐 Desenvolvimento & Automação
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🤝 CRM & Negócios
-<p>
-  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/javascript.svg" width="40" height="40" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/typescript-icon.svg" width="40" height="40" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/hubspot.svg" width="40" height="40" alt="HubSpot" /><br/>
+      <sub><b>HubSpot</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -71,16 +81,19 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nathanksgomes&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
-<img height="180" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanksgomes&theme=tokyonight&layout=compact&hide_border=true&custom_title=Tecnologias&langs_count=8" />
+<img width="495" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=nathanksgomes&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br&card_width=495&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
 
 <br/>
 
-<img alt="Streak" src="https://streak-stats.demolab.com/?user=nathanksgomes&theme=tokyonight&hide_border=true&locale=pt_BR" />
+<img width="495" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=nathanksgomes&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=495" />
 
-<br/>
+<!--
+Ative estes dois blocos quando tiver repositórios públicos com código e mais atividade:
 
-<img width="95%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=nathanksgomes&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
+<img width="495" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanksgomes&theme=tokyonight&layout=compact&hide_border=true&custom_title=Tecnologias&langs_count=8&card_width=495" />
+
+<img width="95%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=nathanksgomes&theme=tokyo-night&hide_border=true&area=true" />
+-->
 
 </div>
 
@@ -90,12 +103,8 @@ Estudante de Ciência da Computação na FIAP e Gestão Comercial na Descomplica
 
 ### 📬 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/nathankaique/">
-  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-square&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/__than.sg/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/nathankaique/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="48" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__than.sg/"><img alt="Instagram" src="assets/btn-instagram.svg" height="48" /></a>
 
 </div>
 
